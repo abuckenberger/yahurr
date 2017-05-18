@@ -2,5 +2,9 @@
 @import "semantic";
 
 body {
-    background: cornflowerblue;
+    background: #ccc;
+}
+
+#students img {
+    max-width: 300px;
 }
